@@ -65,6 +65,8 @@ I enjoy learning by experimenting, understanding how things work, and using mode
 
 </p>
 
+### 🖥️ Platforms
+
 <p align="center">
 
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
@@ -75,8 +77,14 @@ I enjoy learning by experimenting, understanding how things work, and using mode
     <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
   </a>
 
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino" />
+</p>
+
+### 🔌 Hardware & Embedded
+
+<p align="center">
+
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="ESP32 / Arduino Ecosystem" />
   </a>
 
 </p>
