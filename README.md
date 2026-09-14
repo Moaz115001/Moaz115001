@@ -1,92 +1,41 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=MOAZ%20MOHAMED&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Programmer%20%7C%20AI-Assisted%20Developer&descAlignY=62&descSize=17" alt="Moaz Mohamed Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=MOAZ%20MOHAMED&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Programmer%20%7C%20AI-Assisted%20Developer&descAlignY=62&descSize=17"
+    alt="Moaz Mohamed"
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Turning+ideas+into+working+projects;Learning+by+building+and+experimenting;Exploring+Software+Engineering+%26+AI;Building+better+digital+experiences" alt="Typing Animation" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Exploring.+Learning.+Building.;Turning+ideas+into+working+projects;Building+with+code+and+AI"
+    alt="Exploring. Learning. Building."
+  />
 </p>
 
 <p align="center">
   <a href="https://moaz-dev.infinityfree.me/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6366F1?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mezo-mohamed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Moaz%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Moaz115001">
-    <img src="https://img.shields.io/badge/GitHub-Moaz115001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Moaz Mohamed** — a programmer, creative thinker, and aspiring **Software Engineer** who enjoys turning ideas into practical projects.
+I'm **Moaz Mohamed**, a programmer and aspiring **Software Engineer** who enjoys turning ideas into practical projects.
 
-I learn best by **building, experimenting, testing, and improving** rather than staying in theory for too long.
-
-I'm especially interested in combining software development with modern AI-assisted workflows to build projects that are not only functional, but also polished and useful.
-
-* 💻 Software Engineering & Development
-* 🐍 Python & Web Technologies
-* 🤖 AI-Assisted Development
-* 🧠 Prompt Engineering
-* 🧪 Experimentation & Project-Based Learning
-* 🔌 ESP32 & Embedded Projects
-* 🎨 Functional + polished digital experiences
+I learn through experimentation and real-world building, with a growing focus on software development, AI-assisted workflows, and creating useful digital experiences.
 
 ---
 
-# ⚡ What I Do
+## 🧰 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-Building practical applications and web experiences while continuously improving my software engineering fundamentals.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI-Assisted Development
-
-Using AI as a development partner to explore ideas, understand concepts, prototype solutions, and improve workflows.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Project-Based Learning
-
-Learning technologies by actually using them in projects instead of only studying them theoretically.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔌 Hardware Experiments
-
-Working with **ESP32** and hardware projects when software meets the physical world.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Tech Stack
-
-## 💻 Languages & Web
+### 💻 Languages & Web
 
 <p align="center">
 
@@ -108,7 +57,7 @@ Working with **ESP32** and hardware projects when software meets the physical wo
 
 </p>
 
-## 🛠️ Development Tools
+### 🛠️ Tools & Platforms
 
 <p align="center">
 
@@ -120,12 +69,6 @@ Working with **ESP32** and hardware projects when software meets the physical wo
 <img src="https://skillicons.dev/icons?i=vscode" width="58" alt="Visual Studio Code"/>
 </a>
 
-</p>
-
-## 🖥️ Platforms
-
-<p align="center">
-
 <a href="https://www.microsoft.com/windows/" target="_blank">
 <img src="https://skillicons.dev/icons?i=windows" width="58" alt="Windows"/>
 </a>
@@ -136,85 +79,60 @@ Working with **ESP32** and hardware projects when software meets the physical wo
 
 </p>
 
-## 🔌 Hardware & Embedded
+### 🔌 Hardware
 
 <p align="center">
-
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="38" alt="ESP32"/>
-</a>
-
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="38" alt="ESP32"/>
+  </a>
 </p>
 
 ---
 
-# 🤖 AI & Development Workflow
+## 🤖 AI-Assisted Development
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Assisted Development"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
-
-<img src="https://img.shields.io/badge/AI%20Powered%20Workflow-0F172A?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Powered Workflow"/>
-
+  <img src="https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Assisted Development"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
-> I use AI to accelerate development, explore solutions, understand technologies, and turn ideas into working implementations — while keeping the goal focused on **building real projects**.
+I use AI as part of my development workflow to explore ideas, solve problems, understand technologies, and turn concepts into working projects.
 
 ---
 
-# 🚀 Currently Building & Learning
+## 🚀 Projects
 
-```text
-Software Engineering       ███████████████████░░   Learning & Building
-Web Development             ██████████████████░░░   Building Projects
-Python                      ██████████████████░░░   Practical Development
-AI-Assisted Development     ███████████████████░░   Active Exploration
-ESP32 / Hardware            ████████████░░░░░░░░░   Project-Based
-```
+I'm building and organizing practical projects across software, web development, AI-assisted workflows, and hardware experimentation.
+
+> **More projects coming as they are polished and ready to showcase.**
 
 ---
 
-# 📂 Projects
-
-I'm currently organizing my GitHub around **real projects, experiments, and learning work**.
-
-Each project will focus on:
+## 📊 GitHub
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/🧩%20Real%20Projects-2563EB?style=for-the-badge" alt="Real Projects"/>
-<img src="https://img.shields.io/badge/📖%20Documentation-475569?style=for-the-badge" alt="Documentation"/>
-<img src="https://img.shields.io/badge/🧹%20Clean%20Code-0F766E?style=for-the-badge" alt="Clean Code"/>
-<img src="https://img.shields.io/badge/🚀%20Continuous%20Improvement-7C3AED?style=for-the-badge" alt="Continuous Improvement"/>
-
-</p>
-
-### ⭐ Featured Work
-
-> 🚧 Projects are currently being organized and documented.
-> More repositories will be added as they are polished and ready to showcase.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moaz115001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Moaz115001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaz115001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaz115001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moaz115001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Moaz115001&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 
@@ -234,22 +152,13 @@ Each project will focus on:
 
 ---
 
-# 🧠 Beyond Code
-
-* 🔍 I like understanding **why** things work.
-* 🧪 I enjoy experimenting with new ideas.
-* 🎯 I care about details and continuous improvement.
-* 💡 I like turning ideas into something people can actually use.
-* 🚀 I believe the best way to learn is to **build**.
-
----
-
 <p align="center">
-
-### `Build → Experiment → Learn → Improve → Repeat`
-
+  <b>Exploring. Learning. Building.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer" alt="Footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=110&section=footer"
+    alt="Footer"
+  />
 </p>
