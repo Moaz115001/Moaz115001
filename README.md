@@ -38,6 +38,7 @@ I enjoy learning by experimenting, understanding how things work, and using mode
 ## 🧰 Languages & Technologies
 
 <p align="center">
+
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
   </a>
@@ -61,20 +62,23 @@ I enjoy learning by experimenting, understanding how things work, and using mode
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="Visual Studio Code" />
   </a>
+
 </p>
 
 <p align="center">
+
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
   </a>
 
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino" />
   </a>
 
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=canva" width="55" height="55" alt="Canva" />
-  </a>
 </p>
 
 > My current focus is on strengthening my development fundamentals through practical projects and continuous experimentation.
