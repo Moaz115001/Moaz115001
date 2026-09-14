@@ -38,11 +38,43 @@ I enjoy learning by experimenting, understanding how things work, and using mode
 ## 🧰 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&perline=7" alt="Languages and Development Tools" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript" />
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="Visual Studio Code" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,arduino,figma,canva&perline=5" alt="Platforms and Creative Tools" />
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" width="55" height="55" alt="Windows" />
+  </a>
+
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino" />
+  </a>
+
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=canva" width="55" height="55" alt="Canva" />
+  </a>
 </p>
 
 > My current focus is on strengthening my development fundamentals through practical projects and continuous experimentation.
